@@ -2,7 +2,9 @@ module tb;
 
 initial begin
 
-    tetstsetsetse salfjlkasf;
+    int a;
+    int b;
+    int c;
 end
 
 endmodule
